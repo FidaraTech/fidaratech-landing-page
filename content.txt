@@ -1,0 +1,21 @@
+Company Name: FidaraTech
+
+Website URL: fidaratech.de
+
+Vision:
+To make everyday life better by building technology that solves real problems and is accessible to everyone. 
+
+Mission: 
+To build simple, reliable digital products that turn complex problems into effortless experiences and keep evolving with technology. 
+
+Values:
+Reliability, Accessibility, Integrity, Collaboration, Lasting Impact
+
+Roles
+CEO: Yogesh Karnan
+CTO: Rohit Gurung
+COO: Shanmugam Palaniappan
+CFO: Raghul Govindan
+CPO: Karishma Ramesh
+CIO: Keval Rabadiya
+CDO: Soniya Dangol
